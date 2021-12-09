@@ -1,5 +1,4 @@
 body{
-    list-style: none;
     text-decoration: none;
     font-family: Roboto;
 }
@@ -12,4 +11,7 @@ header,main{
 }
 footer{
     background-color: #2F303A;
+}
+li{
+    list-style: none;
 }
