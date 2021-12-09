@@ -25,3 +25,8 @@ body{
 li{
     list-style: none;
 }
+.button:hover,
+.button:focus{
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
