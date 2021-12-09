@@ -1,4 +1,14 @@
-header,main{background-color: #FFFFFF;}
-.link-studio{color: #2196F3; font-family: Raleway; text-decoration: none;}
-.link{font-family: roboto; text-decoration: none;}
-footer{background-color: #2F303A;}
+body{
+    font-family: Roboto;
+}
+header,main{
+    background-color: #FFFFFF;
+}
+.link-studio{
+    color: #2196F3; 
+    font-family: Raleway; 
+    text-decoration: none;
+}
+footer{
+    background-color: #2F303A;
+}
