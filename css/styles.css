@@ -5,10 +5,18 @@ body{
 header,main{
     background-color: #FFFFFF;
 }
-.link-studio{
+.link-studio-header{
     text-decoration: none;
-    color: #2196F3; 
-    font-family: Raleway; 
+    font-family: Raleway;
+    color: #000;
+}
+.link-studio-footer{
+    text-decoration: none;
+    font-family: Raleway;
+    color: #fff;
+}
+.accent{
+    color: #2196F3;  
 }
 .link{
     text-decoration: none;
