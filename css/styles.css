@@ -1,4 +1,5 @@
 body{
+    color: #E5E5E5;
     font-family: Roboto;
 }
 header,main{
@@ -9,7 +10,9 @@ header,main{
     color: #2196F3; 
     font-family: Raleway; 
 }
-.link{text-decoration: none;}
+.link{
+    text-decoration: none;
+}
 footer{
     background-color: #2F303A;
 }
