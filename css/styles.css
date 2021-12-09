@@ -1,9 +1,7 @@
 body{
     color: #E5E5E5;
     font-family: Roboto;
-}
-header,main{
-    background-color: #FFFFFF;
+    font-weight: 400 500 700 900;
 }
 .link-studio-header{
     text-decoration: none;
@@ -21,7 +19,7 @@ header,main{
 .link{
     text-decoration: none;
 }
-footer{
+.address-bar{
     background-color: #2F303A;
 }
 li{
