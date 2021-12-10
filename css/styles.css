@@ -43,6 +43,8 @@ body{
 .navigation{
     color: #212121;
 }
+.contact:hover,
+.contact:focus,
 .navigation:focus,
 .navigation:hover{
     color: #2196F3;
