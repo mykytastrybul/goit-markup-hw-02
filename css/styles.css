@@ -22,7 +22,7 @@ body{
 .address-bar{
     background-color: #2F303A;
 }
-li{
+.list{
     list-style: none;
 }
 .button{
