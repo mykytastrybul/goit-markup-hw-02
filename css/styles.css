@@ -31,6 +31,7 @@ body{
     color: #212121;
     background-color: #F5F4FA;
 }
+.big-button,
 .button:hover,
 .button:focus{
     color: #FFFFFF;
