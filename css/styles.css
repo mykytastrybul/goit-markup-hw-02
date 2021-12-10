@@ -5,12 +5,19 @@ body{
 }
 .link-studio-header{
     text-decoration: none;
-    font-family: Raleway;
+    font-family: Raleway, cursive;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
     color: #000;
 }
 .link-studio-footer{
     text-decoration: none;
-    font-family: Raleway;
+    font-family: Raleway, cursive;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
     color: #fff;
 }
 .accent{
