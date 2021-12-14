@@ -1,12 +1,11 @@
 body{
-    color: #E5E5E5;
+    color: #212121;
     font-family: Roboto, sans-serif;
     letter-spacing: 0.03em;
 }
 .link-studio-header{
     text-decoration: none;
     font-family: Raleway, cursive;
-    font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -31,12 +30,10 @@ body{
 }
 .list{
     list-style: none;
-    color: #212121;
-    ;
 }
 .button{
-    color: #212121;
     background-color: #F5F4FA;
+    cursor: pointer;
 }
 .big-button,
 .button:hover,
@@ -44,9 +41,15 @@ body{
     color: #FFFFFF;
     background-color: #2196F3;
 }
+.navigation,
+.contact{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.02em;
+}
 .contact{
     color: #757575;
-    ;
 }
 .navigation{
     color: #212121;
@@ -60,13 +63,65 @@ body{
 .fact-adress{
     color: #FFFFFF;
 }
-.text{
-    color: #212121;
+.heading{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
 }
 .white-text{
     color: #FFFFFF;
     background-color: #2F303A;
-}
-.more-ls{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
     letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+.feature h3{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.14;
+    text-transform: uppercase;
+}
+.feature p{
+    font-size: 14px;
+    line-height: 1.71;
+}
+.team h3{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    text-align: center;
+}
+.team p{
+    font-size: 16px;
+    line-height: 1.18;
+    text-align: center;
+}
+.button{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+}
+.big-button{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.87;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+}
+.group h3{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+.group p{
+    font-size: 16px;
+    line-height: 1.87;
 }
