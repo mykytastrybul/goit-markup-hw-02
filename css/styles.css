@@ -74,6 +74,7 @@ body{
 }
 .fact-adress{
     color: var(--white-color);
+    font-style: normal;
 }
 .heading{
     font-weight: bold;
